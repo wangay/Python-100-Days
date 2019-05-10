@@ -16,7 +16,11 @@ def main():
     # 通过下标访问元素
     print(fruits[0])
     print(fruits[1])
+
+    #最后一个值
     print(fruits[-1])
+
+    #最后第二个值
     print(fruits[-2])
     # print(fruits[-5]) # IndexError
     # print(fruits[4])  # IndexError
